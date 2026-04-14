@@ -1,5 +1,5 @@
 
-#needed pips, xoxoxox
+# needed pips,
 
 pip install Pillow
 
